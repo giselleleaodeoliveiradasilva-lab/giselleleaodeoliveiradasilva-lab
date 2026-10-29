@@ -42,11 +42,12 @@
 <h3 align="left">📊 Estatísticas e Métricas no GitHub:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giselleleaodeoliveiradasilva-lab&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giselleleaodeoliveiradasilva-lab&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselleleaodeoliveiradasilva-lab&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselleleaodeoliveiradasilva-lab&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 
